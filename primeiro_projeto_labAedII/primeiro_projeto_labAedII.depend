@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760489292 source:c:\users\cauan\documentos\github\lab-aedii\primeiro_projeto_labaedii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+

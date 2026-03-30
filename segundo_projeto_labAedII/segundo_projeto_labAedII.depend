@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1762633500 source:c:\users\cauan\documentos\faculdade\programas & projetos\programas faculdade\mod & const 3d\segundo_projeto_labaedii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1763323530 source:c:\users\cauan\documentos\github\lab-aedii\segundo_projeto_labaedii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
